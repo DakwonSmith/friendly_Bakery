@@ -1,0 +1,39 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+html{
+  background: url('https://st2.depositphotos.com/5927262/10514/i/950/depositphotos_105149916-stock-photo-tasty-cookies-and-muffins-cakes.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+}
+
+.about_Us{
+  background: url('https://st2.depositphotos.com/5927262/10515/i/950/depositphotos_105150154-stock-photo-tasty-cookies-and-muffins-cakes.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 45%;
+}
+
+.muffin_Top{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWpehqE7nslxvOaK30VeUcZG9XRic3_LQe1BxZWeEL_TO125tjw') no-repeat center;
+  background-size: cover;
+  object-fit: cover;
+  height: 45%;
+}
+
+.cakes{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6viWGij6_Jja_eX6SFeW-GVYHZKOwZiTwE4z1XWyMcCwJ_oLm') no-repeat center center;
+  background-size: cover;
+  object-fit: cover;
+  height: 45%;
+}
+
+.cookies{
+  background: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/zblwSNT/cookies-falling-down-on-white-background_vfgywntvg__F0000.png') no-repeat center center ;
+  background-size: cover;
+  height: 45%;
+}
