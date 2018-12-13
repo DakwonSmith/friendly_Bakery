@@ -1,0 +1,9 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+html{
+	background: url('http://images6.fanpop.com/image/photos/38800000/Chocolate-Cake-chocolate-38862079-1920-1200.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
