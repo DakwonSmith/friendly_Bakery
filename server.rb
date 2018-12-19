@@ -1,7 +1,4 @@
 require 'sinatra'
-require 'cookies.rb'
-require 'cakes.rb'
-require './muffins.rb'
 
 get '/' do
   erb :index

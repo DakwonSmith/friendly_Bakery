@@ -25,6 +25,7 @@ h1{
   object-fit: cover;
   height: 45%;
   text-align: center;
+  vertical-align: middle;
 }
 
 .cakes{
